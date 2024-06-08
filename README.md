@@ -1,16 +1,24 @@
-## Hi there 👋
+<center>
+    <h1>Sejam Bem-Vindos Ao Meu Mundo!</h1>
+</center>
 
-<!--
-**VictorHenriquee/VictorHenriquee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
 
-Here are some ideas to get you started:
+  <tr>
+    <td>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJ4a2VzeXBzdnIyNHFudmptbG0xZ3U4ZHRpNzA3OHNkeGQxZzl2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" height="100%">
+    </td>
+    <td>
+      <h2><center>Um pouco sobre mim</center></h2>
+      <p>Olá! Sou estudante de Engenharia da Computação. Cada dia que passa eu me dedico um pouco mais para aperfeiçoar meus conhecimentos em programação.<br><br> Atualmente meu principal objetivo é me tornar desenvolvedor .NET 🚀
+      </p>
+      <h3><center>Contato</center></h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/victorhenriquee" style="background-color: #0077b5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;" target="_blank">
+          Conectar no LinkedIn
+        </a>
+      </p>
+    </td>
+  </tr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</table>
