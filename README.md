@@ -9,7 +9,7 @@
     </td>
     <td>
       <h2 align="center">Um pouco sobre mim</h2>
-      <p>Olá! Sou estudante de Engenharia da Computação. Cada dia que passa eu me dedico um pouco mais para aperfeiçoar meus conhecimentos em programação.<br><br> Atualmente meu principal objetivo é me tornar desenvolvedor .NET 🚀
+      <p>Olá! Sou estudante de Engenharia da Computação e estou constantemente aprimorando meus conhecimentos em programação. Cada dia é uma nova oportunidade para aprender e crescer na minha jornada tecnológica.<br><br> Meu principal objetivo no momento é me tornar um desenvolvedor .NET 🚀
       </p>
       <h3 align="center">Contato</h3>
       <div align="center">
